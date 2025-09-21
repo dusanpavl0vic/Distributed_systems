@@ -1,0 +1,83 @@
+# =========================
+# COMMON
+# =========================
+*.log
+*.tmp
+*.swp
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.DS_Store
+Thumbs.db
+
+# =========================
+# VISUAL STUDIO / WCF / gRPC (.NET)
+# =========================
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Tt]est[Rr]esult*/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.dbmdl
+*.bak
+*.ldf
+*.ndf
+*.sql
+*.vs/
+.vscode/
+*.nupkg
+*.snupkg
+project.lock.json
+artifacts/
+
+# gRPC generated C# code
+**/obj/**/Proto/*.cs
+**/obj/**/*.protodep
+
+# =========================
+# JAVA / Java RMI
+# =========================
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+replay_pid*
+*.log
+*.out
+*.err
+*.idea/
+*.iml
+target/
+build/
+.gradle/
+.gradle/
+.settings/
+.project
+.classpath
+
+# =========================
+# MPI (C / C++)
+# =========================
+*.o
+*.obj
+*.so
+*.a
+*.exe
+*.out
+*.dll
+*.pdb
+*.ilk
+*.idb
+*.manifest
+*.dSYM/
+*.vcxproj*
+*.sln
+
+# VSCode config
+.vscode/
