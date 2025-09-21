@@ -1,0 +1,7 @@
+D:\Velja\DS\WCF\Chat\Chat\bin\Chat.dll.config
+D:\Velja\DS\WCF\Chat\Chat\bin\Chat.dll
+D:\Velja\DS\WCF\Chat\Chat\bin\Chat.pdb
+D:\Velja\DS\WCF\Chat\Chat\obj\Debug\Chat.csproj.AssemblyReference.cache
+D:\Velja\DS\WCF\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+D:\Velja\DS\WCF\Chat\Chat\obj\Debug\Chat.dll
+D:\Velja\DS\WCF\Chat\Chat\obj\Debug\Chat.pdb

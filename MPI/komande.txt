@@ -1,0 +1,3 @@
+mpiexec -n borj_procesa file.exe
+
+g++ file.cpp -I C:\MPI\SDK\Include\ -L C:\MPI\SDK\Lib\x64\ -lmsmpi -o file.exe

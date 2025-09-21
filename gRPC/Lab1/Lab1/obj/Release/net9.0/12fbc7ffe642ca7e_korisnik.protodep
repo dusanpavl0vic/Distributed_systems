@@ -1,0 +1,2 @@
+obj\Release\net9.0\Protos/Korisnik.cs \
+obj\Release\net9.0\Protos/KorisnikGrpc.cs: Protos/korisnik.proto

@@ -1,0 +1,39 @@
+c:\users\velja\documents\visual studio 2015\Projects\01_Vreme\01_Vreme\bin\ApplicationInsights.config
+c:\users\velja\documents\visual studio 2015\Projects\01_Vreme\01_Vreme\bin\01_Vreme.dll.config
+c:\users\velja\documents\visual studio 2015\Projects\01_Vreme\01_Vreme\bin\01_Vreme.dll
+c:\users\velja\documents\visual studio 2015\Projects\01_Vreme\01_Vreme\bin\01_Vreme.pdb
+c:\users\velja\documents\visual studio 2015\Projects\01_Vreme\01_Vreme\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\velja\documents\visual studio 2015\Projects\01_Vreme\01_Vreme\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\velja\documents\visual studio 2015\Projects\01_Vreme\01_Vreme\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\velja\documents\visual studio 2015\Projects\01_Vreme\01_Vreme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\velja\documents\visual studio 2015\Projects\01_Vreme\01_Vreme\bin\Microsoft.AI.Web.dll
+c:\users\velja\documents\visual studio 2015\Projects\01_Vreme\01_Vreme\bin\Microsoft.AI.WindowsServer.dll
+c:\users\velja\documents\visual studio 2015\Projects\01_Vreme\01_Vreme\bin\Microsoft.ApplicationInsights.dll
+c:\users\velja\documents\visual studio 2015\Projects\01_Vreme\01_Vreme\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\velja\documents\visual studio 2015\Projects\01_Vreme\01_Vreme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\velja\documents\visual studio 2015\Projects\01_Vreme\01_Vreme\bin\Microsoft.AI.Web.xml
+c:\users\velja\documents\visual studio 2015\Projects\01_Vreme\01_Vreme\bin\Microsoft.AI.WindowsServer.xml
+c:\users\velja\documents\visual studio 2015\Projects\01_Vreme\01_Vreme\bin\Microsoft.ApplicationInsights.xml
+c:\users\velja\documents\visual studio 2015\Projects\01_Vreme\01_Vreme\obj\Debug\01_Vreme.dll
+c:\users\velja\documents\visual studio 2015\Projects\01_Vreme\01_Vreme\obj\Debug\01_Vreme.pdb
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\01_Vreme\bin\ApplicationInsights.config
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\01_Vreme\bin\01_Vreme.dll.config
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\01_Vreme\bin\01_Vreme.dll
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\01_Vreme\bin\01_Vreme.pdb
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\01_Vreme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\01_Vreme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\01_Vreme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\01_Vreme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\01_Vreme\bin\Microsoft.AI.Web.dll
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\01_Vreme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\01_Vreme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\01_Vreme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\01_Vreme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\01_Vreme\bin\Microsoft.AI.Web.xml
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\01_Vreme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\01_Vreme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\01_Vreme\obj\Debug\01_Vreme.csproj.AssemblyReference.cache
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\01_Vreme\obj\Debug\01_Vreme.csproj.CoreCompileInputs.cache
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\01_Vreme\obj\Debug\01_Vreme.csproj.Up2Date
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\01_Vreme\obj\Debug\01_Vreme.dll
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\01_Vreme\obj\Debug\01_Vreme.pdb

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dusan\\Desktop\\Distribuirani sistemi\\WCF\\Chat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01502D01-5A4C-4DED-89A7-2AF31DA1601E}|Chat\\Chat.csproj|C:\\Users\\dusan\\Desktop\\Distribuirani sistemi\\WCF\\Chat\\chat\\chat.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01502D01-5A4C-4DED-89A7-2AF31DA1601E}|Chat\\Chat.csproj|solutionrelative:chat\\chat.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01502D01-5A4C-4DED-89A7-2AF31DA1601E}|Chat\\Chat.csproj|C:\\Users\\dusan\\Desktop\\Distribuirani sistemi\\WCF\\Chat\\chat\\ichat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01502D01-5A4C-4DED-89A7-2AF31DA1601E}|Chat\\Chat.csproj|solutionrelative:chat\\ichat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A8C088-B51F-4665-9879-4C2DD0DDEFA8}|FormChat\\FormChat.csproj|c:\\users\\dusan\\desktop\\distribuirani sistemi\\wcf\\chat\\formchat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A8C088-B51F-4665-9879-4C2DD0DDEFA8}|FormChat\\FormChat.csproj|solutionrelative:formchat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dusan\\Desktop\\Distribuirani sistemi\\WCF\\Chat\\FormChat\\Form1.cs",
+              "RelativeDocumentMoniker": "FormChat\\Form1.cs",
+              "ToolTip": "C:\\Users\\dusan\\Desktop\\Distribuirani sistemi\\WCF\\Chat\\FormChat\\Form1.cs",
+              "RelativeToolTip": "FormChat\\Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowD0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T17:35:22.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IChat.cs",
+              "DocumentMoniker": "C:\\Users\\dusan\\Desktop\\Distribuirani sistemi\\WCF\\Chat\\Chat\\IChat.cs",
+              "RelativeDocumentMoniker": "Chat\\IChat.cs",
+              "ToolTip": "C:\\Users\\dusan\\Desktop\\Distribuirani sistemi\\WCF\\Chat\\Chat\\IChat.cs",
+              "RelativeToolTip": "Chat\\IChat.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T17:34:22.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chat.svc.cs",
+              "DocumentMoniker": "C:\\Users\\dusan\\Desktop\\Distribuirani sistemi\\WCF\\Chat\\Chat\\Chat.svc.cs",
+              "RelativeDocumentMoniker": "Chat\\Chat.svc.cs",
+              "ToolTip": "C:\\Users\\dusan\\Desktop\\Distribuirani sistemi\\WCF\\Chat\\Chat\\Chat.svc.cs",
+              "RelativeToolTip": "Chat\\Chat.svc.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T17:34:22.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

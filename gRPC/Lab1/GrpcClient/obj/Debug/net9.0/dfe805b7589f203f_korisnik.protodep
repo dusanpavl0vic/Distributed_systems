@@ -1,0 +1,2 @@
+obj\Debug\net9.0\Proto/Korisnik.cs \
+obj\Debug\net9.0\Proto/KorisnikGrpc.cs: Proto/korisnik.proto

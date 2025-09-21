@@ -1,0 +1,40 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcClient";
+
+
+
+
+service KorisnikService{
+	rpc AddKorisnik (Korisnik) returns (Korisnik);
+	rpc DeleteKorisnik (IdKorisnik) returns (IdKorisnik);
+	rpc UpdateKorisnik (Korisnik) returns (Korisnik);
+	rpc ReturnKorisnik (IdKorisnik) returns (Korisnik);
+	rpc ReturnList (RangeId) returns (List);
+	rpc RemoveFromList (IdKorisnik) returns (IdKorisnik);
+}
+
+message Korisnik{
+	int32 id = 1;
+	string name = 2;
+	string adresa = 3;
+
+	message Phone{
+		string broj = 1;
+	}
+
+	repeated Phone phoneNumber = 4;
+}
+
+message IdKorisnik{
+	int32 id = 1;
+}
+
+message RangeId{
+	int32 start = 1;
+	int32 end = 2;
+}
+
+message List{
+	repeated Korisnik lista = 1;
+}

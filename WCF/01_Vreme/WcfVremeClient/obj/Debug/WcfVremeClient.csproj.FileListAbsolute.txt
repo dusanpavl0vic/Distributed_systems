@@ -1,0 +1,20 @@
+c:\Users\Velja\documents\visual studio 2015\Projects\01_Vreme\WcfVremeClient\bin\Debug\WcfVremeClient.exe.config
+c:\Users\Velja\documents\visual studio 2015\Projects\01_Vreme\WcfVremeClient\bin\Debug\WcfVremeClient.exe
+c:\Users\Velja\documents\visual studio 2015\Projects\01_Vreme\WcfVremeClient\bin\Debug\WcfVremeClient.pdb
+c:\Users\Velja\documents\visual studio 2015\Projects\01_Vreme\WcfVremeClient\obj\Debug\WcfVremeClient.csprojResolveAssemblyReference.cache
+c:\Users\Velja\documents\visual studio 2015\Projects\01_Vreme\WcfVremeClient\obj\Debug\WcfVremeClient.Form1.resources
+c:\Users\Velja\documents\visual studio 2015\Projects\01_Vreme\WcfVremeClient\obj\Debug\WcfVremeClient.Properties.Resources.resources
+c:\Users\Velja\documents\visual studio 2015\Projects\01_Vreme\WcfVremeClient\obj\Debug\WcfVremeClient.csproj.GenerateResource.Cache
+c:\Users\Velja\documents\visual studio 2015\Projects\01_Vreme\WcfVremeClient\obj\Debug\WcfVremeClient.exe
+c:\Users\Velja\documents\visual studio 2015\Projects\01_Vreme\WcfVremeClient\obj\Debug\WcfVremeClient.pdb
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\WcfVremeClient\bin\Debug\WcfVremeClient.exe.config
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\WcfVremeClient\bin\Debug\WcfVremeClient.exe
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\WcfVremeClient\bin\Debug\WcfVremeClient.pdb
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\WcfVremeClient\obj\Debug\WcfVremeClient.csproj.AssemblyReference.cache
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\WcfVremeClient\obj\Debug\WcfVremeClient.exe.config
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\WcfVremeClient\obj\Debug\WcfVremeClient.Form1.resources
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\WcfVremeClient\obj\Debug\WcfVremeClient.Properties.Resources.resources
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\WcfVremeClient\obj\Debug\WcfVremeClient.csproj.GenerateResource.cache
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\WcfVremeClient\obj\Debug\WcfVremeClient.csproj.CoreCompileInputs.cache
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\WcfVremeClient\obj\Debug\WcfVremeClient.exe
+C:\Users\dusan\Desktop\Distribuirani sistemi\WCF\01_Vreme\WcfVremeClient\obj\Debug\WcfVremeClient.pdb

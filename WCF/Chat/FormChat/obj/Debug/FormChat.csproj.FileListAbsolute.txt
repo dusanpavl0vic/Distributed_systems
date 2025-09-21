@@ -1,0 +1,10 @@
+D:\Velja\DS\WCF\Chat\FormChat\bin\Debug\FormChat.exe.config
+D:\Velja\DS\WCF\Chat\FormChat\bin\Debug\FormChat.exe
+D:\Velja\DS\WCF\Chat\FormChat\bin\Debug\FormChat.pdb
+D:\Velja\DS\WCF\Chat\FormChat\obj\Debug\FormChat.csproj.AssemblyReference.cache
+D:\Velja\DS\WCF\Chat\FormChat\obj\Debug\FormChat.Form1.resources
+D:\Velja\DS\WCF\Chat\FormChat\obj\Debug\FormChat.Properties.Resources.resources
+D:\Velja\DS\WCF\Chat\FormChat\obj\Debug\FormChat.csproj.GenerateResource.cache
+D:\Velja\DS\WCF\Chat\FormChat\obj\Debug\FormChat.csproj.CoreCompileInputs.cache
+D:\Velja\DS\WCF\Chat\FormChat\obj\Debug\FormChat.exe
+D:\Velja\DS\WCF\Chat\FormChat\obj\Debug\FormChat.pdb
